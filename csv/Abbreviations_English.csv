@@ -1,0 +1,1243 @@
+id,Abbreviation,Meaning,Symbol
+1,A,Amber,
+2,AAA ,"(or AAB, AAC . . . etc., in sequence)
+ Amended meteorological message
+(message type designator)",
+3,A/A,Air-to-air,
+4,AAD ,Assigned altitude deviation ,
+5,AAR,Air to air refuelling ,
+6,AAIM ,Aircraft autonomous integrity monitoring ,
+7,AAL,Above aerodrome level ,
+8,ABI,Advance boundary information,
+9,ABM,Abeam,
+10,ABN,Aerodrome beacon ,
+11,ABT,About,
+12,ABV ,Above,
+13,AC,Altocumulus ,
+14,ACARS,"(to be pronounced “AY-CARS”)
+Aircraft communication addressing and reporting system ",†
+15,ACAS,"(to be pronounced “AY-CAS”)
+Airborne collision avoidance system",†
+16,ACC,Area control centre or area control ,‡
+17,ACCID,Notification of an aircraft accident,
+18,ACFT,Aircraft,
+19,ACK,Acknowledge,
+20,ACL,Altimeter check location,
+21,ACN,Aircraft classification number,
+22,ACP ,Acceptance (message type designator),
+23,ACPT,Accept or accepted ,
+24,ACT,Active or activated or activity ,
+25,AD,Aerodrome ,
+26,ADA,Advisory area,
+27,ADC ,Aerodrome chart,
+28,ADDN ,Addition or additional ,
+29,ADF,"Automatic direction-finding
+equipment ",‡
+30,ADIZ,(to be pronounced “AY-DIZ”) Air defence identification zone,†
+31,ADJ,Adjacent,
+32,ADO,Aerodrome office (specify service),
+33,ADR,Advisory route,
+34,ADS,"Address (when this abbreviation is
+used to request a repetition, the
+question mark (IMI) precedes the
+abbreviation, e.g. IMI ADS) (to be
+used in AFS as a procedure signal)",*
+35,ADS-B,"Automatic dependent surveillance —
+broadcast ",‡
+36,ADS-C,"Automatic dependent surveillance —
+contrac",‡ 
+37,ADSU,Automatic dependent surveillance unit,
+38,ADVS,Advisory service ,
+39,ADZ,Advise,
+40,AES,Aircraft earth station ,
+41,AFIL,Flight plan filed in the air,
+42,AFIS,Aerodrome flight information service ,
+43,AFM,"Yes or affirm or affirmative or that is
+correct ",
+44,AFS,Aeronautical fixed service,
+45,AFT…,After (followed by time or place),
+46,AFTN,"Aeronautical fixed telecommunication
+network ",‡
+47,A/G ,Air-to-ground ,
+48,AGA,"Aerodromes, air routes and ground
+aids ",
+49,AGL ,Above ground level ,
+50,AGN,Again ,
+51,AIC ,Aeronautical information circular ,
+52,AIDC,"Air traffic services interfacility data
+communications ",
+53,AIM,Aeronautical information management,
+54,AIP,Aeronautical information publication,
+55,AIRAC,"Aeronautical information regulation
+and control",
+56,AIREP,Air-report ,† 
+57,AIRMET,"Information concerning en-route
+weather phenomena which may
+affect the safety of low-level
+aircraft operations ",†
+58,AIS ,Aeronautical information services ,
+59,ALA ,Alighting area,
+60,ALERFA,Alert phase ,†
+61,ALR ,Alerting (message type designator),
+62,ALRS ,Alerting service ,
+63,ALS ,Approach lighting system ,
+64,ALT ,Altitude ,
+65,ALTN ,"Alternate or alternating (light
+alternates in colour)",
+66,ALTN,Alternate (aerodrome),
+67,AMA ,Area minimum altitude,
+68,AMD ,"Amend or amended (used to indicate
+amended meteorological message;
+message type designator",
+69,AMDT ,Amendment (AIP Amendment),
+70,AMS ,Aeronautical mobile service ,
+71,AMSL ,Above mean sea level,
+72,ANC…,"Aeronautical chart — 1:500 000
+(followed by name/title)",
+73,ANCS…,"Aeronautical navigation chart — small
+scale (followed by name/title and
+scale)",
+74,ANS,Answer,
+75,AO,Aircraft operator,
+76,AOC…,"Aerodrome obstacle chart (followed by
+type and name/title)",
+77,AP ,Airport ,
+78,APAPI,"(to be pronounced “AY-PAPI”)
+Abbreviated precision approach
+path indicator ",† 
+79,APCH ,Approach ,
+80,APDC,"Aircraft parking/docking chart
+(followed by name/title)",
+81,APN,Apron ,
+82,APP ,"Approach control office or approach
+control or approach control service",
+83,APR,April ,
+84,APRX,Approximate or approximately ,
+85,APSG,After passing ,
+86,APU ,Auxiliary power unit ,
+87,APV ,"Approach procedure with vertical
+guidance ",
+88,ARC,Area chart ,
+89,ARNG ,Arrange ,
+90,ARO ,Air traffic services reporting office ,
+91,ARP ,Aerodrome reference point ,
+92,ARP ,Air-report (message type designator),
+93,ARQ ,Automatic error correction ,
+94,ARR,Arrival (message type designator),
+95,ARR,Arrive or arrival,
+96,ARS ,"Special air-report (message type
+designator)",
+97,ARST ,"Arresting (specify (part of) aircraft
+arresting equipment)",
+98,AS,Altostratus,
+99,ASAP ,As soon as possible ,
+100,ASC,Ascend to or ascending to ,
+101,ASDA ,Accelerate-stop distance available ,
+102,ASE ,Altimetry system error ,
+103,ASHTAM ,"Special series NOTAM notifying by
+means of a specific format change
+in activity of a volcano, a volcanic
+eruption and/or volcanic ash cloud
+that is of significance to aircraft
+operations",
+104,ASPH ,Asphalt ,
+105,AT…,"At (followed by time at which weather
+change is forecast to occur)",
+106,ATA,Actual time of arrival ,‡ 
+107,ATC,Air traffic control (in general),‡ 
+108,ATCSMAC…,"Air traffic control surveillance
+minimum altitude chart (followed
+by name/title)",
+109,ATD,Actual time of departure ,‡ 
+110,ATFM,Air traffic flow management,
+111,ATIS,"(to be pronounced “AY-TIS”)
+Automatic terminal information
+service",‡ 
+112,ATM,Air traffic management ,
+113,ATN ,"Aeronautical telecommunication
+network ",
+114,ATP…,At (followed by time or place),
+115,ATS ,Air traffic services,
+116,ATTN,Attention,
+117,AT-VASIS,"(to be pronounced “AY-TEE-VASIS”)
+Abbreviated T visual approach
+slope indicator system ",†
+118,ATZ ,Aerodrome traffic zone ,
+119,AUG,August,
+120,AUTH ,Authorized or authorization ,
+121,AUTO ,Automatic ,
+122,AUW,All up weight ,
+123,AUX ,Auxiliary ,
+124,AVBL ,Available or availability ,
+125,AVG ,Average,
+126,AVGAS,Aviation gasoline,†
+127,AWOS ,"Automated weather observation
+system",
+128,AWTA,Advise at what time able ,
+129,AWY,Airway ,
+130,AZM ,Azimuth ,
+131,B ,Blue ,
+132,BA,Braking action ,
+133,BARO-VNAV,"(to be pronounced “BAA-RO-VEENAV”) Barometric vertical
+navigation ",†
+134,BASE,Cloud base ,†
+135,BCFG,Fog patches ,
+136,BCN,Beacon (aeronautical ground light),
+137,BCST ,Broadcast ,
+138,BDRY,Boundary,
+139,BECMG,Becoming,
+140,BFR ,Before,
+141,BKN,Broken,
+142,BL…,"Blowing (followed by DU = dust,
+SA = sand or SN = snow)",
+143,BLDG ,Building,
+144,BLO,Below clouds ,
+145,BLW,Below,
+146,BOMB,Bombing ,
+147,BR ,Mist ,
+148,BRF ,"Short (used to indicate the type of
+approach desired or required)",
+149,BRG ,Bearing,
+150,BRKG,Braking,
+151,BS ,Commercial broadcasting station ,
+152,BTL,Between layers,
+153,BTN,Between,
+154,BUFR ,"Binary universal form for the
+representation of meteorological
+data",
+155,...C ,"Centre (preceded by runway
+designation number to identify a
+parallel runway)",
+156,C,Degrees Celsius (Centigrade),
+157,CA ,Course to an altitude ,
+158,CAA ,"Civil aviation authority or civil
+aviation administration ",
+159,CAT,Category,
+160,CAT ,Clear air turbulence ,
+161,CAVOK,"(to be pronounced “KAV-OH-KAY”)
+Visibility, cloud and present ",†
+162,CB,"(to be pronounced “CEE BEE”)
+ Cumulonimbus ",‡
+163,CC,Cirrocumulus ,
+164,CCA,"(or CCB, CCC . . . etc., in sequence)
+Corrected meteorological message
+(message type designator)",
+165,CCO,Continuous climb operations ,
+166,CD,Candela ,
+167,CDN,"Coordination (message type
+designator)",
+168,CDO,Continuous descent operations,
+169,CDR,Conditional route ,
+170,CF,Change frequency to . . .,
+171,CF ,Course to a fix,
+172,CFM,"Confirm or I confirm (to be used in
+AFS as a procedure signal)",* 
+173,CGL,Circling guidance light(s),
+174,CH ,Channel ,
+175,CH,"This is a channel-continuity-check of
+transmission to permit comparison
+of your record of channelsequence numbers of messages
+received on the channel (to be used
+in AFS as a procedure signal)",#
+176,CHEM,Chemical,
+177,CHG,Modification (message type designator),
+178,CI,Cirrus,
+179,CIDIN,"Common ICAO data interchange
+network ",†
+180,CIV,Civil,
+181,CK,Check,
+182,CL,Centre line,
+183,CLA,Clear type of ice formation ,
+184,CLBR,Calibration,
+185,CLD,Cloud,
+186,CLG,Calling,
+187,CLIMB-OUT,Climb-out area,
+188,CLR,Clear(s) or cleared to . . . or clearance,
+189,CLRD,"Runway(s) cleared (used in
+METAR/SPECI",
+190,CLSD,Close or closed or closing ,
+191,CM,Centimetre,
+192,CMB,Climb to or climbing to ,
+193,CMPL,Completion or completed or complete,
+194,CNL,Cancel or cancelled ,
+195,CNL,"Flight plan cancellation (message type
+designator)",
+196,CNS,"Communications, navigation and
+surveillance ",
+197,COM,Communications,
+198,CONC,Concrete,
+199,COND,Condition,
+200,CONS,Continuous,
+201,CONST,Construction or constructed,
+202,CONT,Continue(s) or continued ,
+203,COOR,Coordinate or coordination ,
+204,COORD,Coordinates,
+205,COP,Change-over point ,
+206,COR,"Correct or correction or corrected
+(used to indicate corrected
+meteorological message; message
+type designator)",
+207,COT,At the coast,
+208,COV,Cover or covered or covering ,
+209,CPDLC,"Controller-pilot data link
+communications",‡ 
+210,CPL,"Current flight plan (message type
+designator)",
+211,CRC,Cyclic redundancy check ,
+212,CRM,Collision risk model ,
+213,CRP,Compulsory reporting point ,
+214,CRZ,Cruise,
+215,CS,Call sign,
+216,CS,Cirrostratus,
+217,CTA,Control area ,
+218,CTAM,Climb to and maintain ,
+219,CTC,Contact,
+220,CTL,Control,
+221,CTN,Caution,
+222,CTR,Control zone ,
+223,CU,Cumulus,
+224,CUF,Cumuliform,
+225,CUST,Customs,
+226,CVR,Cockpit voice recorder ,
+227,CW,Continuous wave ,
+228,CWY,Clearway,
+229,D,"Downward (tendency in RVR during
+previous 10 minutes)",
+230,D…,"Danger area (followed by
+identification)",
+231,DA,Decision altitude ,
+232,D-ATIS,"(to be pronounced “DEE-ATIS”) Data
+link automatic terminal
+information service ",†
+233,DCD,Double channel duplex ,
+234,DCKG,Docking,
+235,DCP,Datum crossing point ,
+236,DCPC,"Direct controller-pilot
+communications",
+237,DCS,Double channel simplex ,
+238,DCT,"Direct (in relation to flight plan
+clearances and type of approach)",
+239,DE,"From (used to precede the call sign of
+the calling station) (to be used in
+AFS as a procedure signal)",*
+240,DEC,December,
+241,DEG,Degrees,
+242,DEP,Depart or departure,
+243,DEP,Departure (message type designator),
+244,DEPO,Deposition,
+245,DER,Departure end of the runway ,
+246,DES,Descend to or descending to,
+247,DEST,Destination,
+248,DETRESFA,DETRESFA,† 
+249,DEV,Deviation or deviating ,
+250,DF,Direction finding ,
+251,DFDR,Digital flight data recorder ,
+252,DFTI,Distance from touchdown indicator,
+253,DH,Decision height ,
+254,DIF,Diffuse,
+255,DIST,Distance,
+256,DIV,Divert or diverting ,
+257,DLA,Delay or delayed,
+258,DLA,Delay (message type designator),
+259,DLIC,Data link initiation capability,
+260,DLY,Daily,
+261,DME,Distance measuring equipment ,‡ 
+262,DNG,Danger or dangerous,
+263,DOF,Date of flight ,
+264,DOM,Domestic,
+265,DP,Dew point temperature ,
+266,DPT,Depth,
+267,DR,Dead reckoning,
+268,DR…,"Low drifting (followed by DU = dust,
+SA = sand or SN = snow)",
+269,DRG,During,
+270,DS,Duststorm,
+271,DSB,Double sideband ,
+272,DTAM,Descend to and maintain,
+273,DTG,Date-time group ,
+274,DTHR,Displaced runway threshold ,
+275,DTRT,Deteriorate or deteriorating,
+276,DTW,Dual tandem wheels ,
+277,DU,Dust,
+278,DUC,Dense upper cloud ,
+279,DUPE,"This is a duplicate message (to be used
+in AFS as a procedure signal)",#
+280,DUR,Duration,
+281,D-VOLMET ,Data link VOLMET ,
+282,DVOR,Doppler VOR ,
+283,DW,Dual wheels,
+284,DZ,Drizzle,
+285,E,East or eastern longitude,
+286,EAT,Expected approach time ,
+287,EB,Eastbound,
+288,EDA,Elevation differential area ,
+289,EDTO,Extended diversion time operations ,
+290,EEE,"Error (to be used in AFS as a
+procedure signal)",# 
+291,EET,Estimated elapsed time ,
+292,EFC,Expect further clearance ,
+293,EFIS,"(to be pronounced “EE-FIS”)
+Electronic flight instrument system",† 
+294,EGNOS,"(to be pronounced “EGG-NOS”)
+European geostationary navigation
+overlay service ",†
+295,EHF,"Extremely high frequency [30 000 to
+300 000 MHz] ",
+296,ELBA,Emergency location beacon — aircraft,† 
+297,ELEV,Elevation,
+298,ELR,Extra long range ,
+299,ELT,Emergency locator transmitter ,
+300,EM,Emission,
+301,EMBD,"Embedded in a layer (to indicate
+cumulonimbus embedded in layers
+of other clouds)",
+302,EMERG,Emergency,
+303,END,Stop-end (related to RVR),
+304,ENE,East-north-east,
+305,ENG,Engine,
+306,ENR,En route ,
+307,ENRC…,Enroute chart (followed by name/title),
+308,EOBT,Estimated off-block time ,
+309,EQPT,Equipment,
+310,EST,"Estimate or estimated or estimation
+(message type designator) ",
+311,ETA,"Estimated time of arrival or estimating
+arrival ",*‡
+312,ETD,"Estimated time of departure or
+estimating departure ",‡
+313,ETO,Estimated time over significant point ,
+314,EUR RODEX,"European regional OPMET data
+exchange",
+315,EV,Every,
+316,EVS,Enhanced vision system ,
+317,EXC,Except,
+318,EXER,Exercises or exercising or to exercise ,
+319,EXP,Expect or expected or expecting ,
+320,EXTD,Extend or extending or extended ,
+321,F,Fixed,
+322,FA,Course from a fix to an altitude ,
+323,FAC,Facilities,
+324,FAF,Final approach fix,
+325,FAL,"Facilitation of international air
+transport ",
+326,FAP,Final approach point ,
+327,FAS,Final approach segment ,
+328,FATO,Final approach and take-off area ,
+329,FAX,Facsimile transmission ,
+330,FBL,"Light (used to indicate the intensity of
+weather phenomena, interference
+or static reports, e.g. FBL RA =
+light rain)",
+331,FC,Funnel cloud (tornado or waterspout),
+332,FCST,Forecast,
+333,FCT,Friction coefficient,
+334,FDPS,Flight data processing system,
+335,FEB,February,
+336,FEW,Few,
+337,FG,Fog,
+338,FIC,Flight information centre,
+339,FIR,Flight information region ,‡ 
+340,FIS,Flight information service ,
+341,FISA,Automated flight information service ,
+342,FL,Flight level ,
+343,FLD,Field,
+344,FLG,Flashing,
+345,FLR,Flares,
+346,FLT,Flight,
+347,FLTCK,Flight check ,
+348,FLUC,"Fluctuating or fluctuation or
+fluctuated ",
+349,FLW,Follow(s) or following ,
+350,FLY,Fly or flying ,
+351,FM,"Course from a fix to manual
+termination (used in navigation
+database coding)",
+352,FM,From,
+353,FM…,"From (followed by time at which
+weather change is forecast to
+begin)",
+354,FMC,Flight management computer ,
+355,FMS,Flight management system,‡ 
+356,FMU,Flow management unit ,
+357,FNA,Final approach ,
+358,FPAP,Flight path alignment point ,
+359,FPL,Flight plan ,
+360,FPM,Feet per minute ,
+361,FPR,Flight plan route ,
+362,FR,Fuel remaining,
+363,FREQ,Frequency,
+364,FRI,Friday,
+365,FRNG,Firing,
+366,FRONT,Front (relating to weather),† 
+367,FROST,Frost (used in aerodrome warnings),† 
+368,FRQ,Frequent,
+369,FSL,Full stop landing,
+370,FSS,Flight service station ,
+371,FST,First,
+372,FT,Feet (dimensional unit),
+373,FTE,Flight technical error ,
+374,FTP,Fictitious threshold point,
+375,FTT,Flight technical tolerance,
+376,FU,Smoke,
+377,FZ,Freezing,
+378,FZDZ,Freezing drizzle ,
+379,FZFG,Freezing fog ,
+380,FZRA,Freezing rain ,
+381,G,Green,
+382,G…,"Variations from the mean wind speed
+(gusts) (followed by figures in
+METAR/SPECI and TAF)",
+383,GA,General aviation,
+384,GA,"Go ahead, resume sending (to be used
+in AFS as a procedure signal)",
+385,G/A ,Ground-to-air,
+386,G/A/G,Ground-to-air and air-to-ground ,
+387,GAGAN,"GPS and geostationary earth orbit
+augmented navigation",† 
+388,GAIN,Airspeed or headwind gain ,
+389,GAMET,Area forecast for low-level flights,
+390,GARP,GBAS azimuth reference point,
+391,GBAS,"(to be pronounced “GEE-BAS”)
+Ground-based augmentation
+system ",†
+392,GCA,"Ground controlled approach system or
+ground controlled approach",‡ 
+393,GEN,General,
+394,GEO,Geographic or true,
+395,GES,Ground earth station ,
+396,GLD,Glider,
+397,GLONASS,"(to be pronounced “GLO-NAS”)
+Global orbiting navigation satellite
+system ",†
+398,GLS,GBAS landing system ,‡ 
+399,GMC…,"Ground movement chart (followed by
+name/title)",
+400,GND,Ground,
+401,GNDCK,Ground check,
+402,GNSS,Global navigation satellite system ,‡
+403,GOV,Government,
+404,GP,Glide path,
+405,GPA,Glide path angle,
+406,GPIP,Glide path intercept point,
+407,GPS,Global positioning system ,‡ 
+408,GPU,Ground power unit ,
+409,GPWS,Ground proximity warning system,‡ 
+410,GR,Hail,
+411,GRAS,"(to be pronounced “GRASS”) Groundbased regional augmentation
+system ",†
+412,GRASS,Grass landing area ,
+413,GRIB,"Processed meteorological data in the
+form of grid point values
+expressed in binary form
+(in meteorological code)",
+414,GRVL,Gravel,
+415,GS,Ground speed,
+416,GS,Small hail and/or snow pellets ,
+417,GUND,Geoid undulation ,
+418,H,"High pressure area or the centre of high
+pressure ",
+419,H…,"Significant wave height (followed by
+figures in METAR/SPECI)",
+420,H24,Continuous day and night service ,
+421,HA,Holding/racetrack to an altitude ,
+422,HAPI,Helicopter approach path indicator ,
+423,HBN,Hazard beacon,
+424,HCH,Heliport crossing height ,
+425,HDF,High frequency direction-finding station,
+426,HDG,Heading,
+427,HEL,Helicopter,
+428,HF,Holding/racetrack to a fix ,
+429,HF,High frequency [3 000 to 30 000 kHz] ,‡
+430,HGT,Height or height above ,
+431,HJ,Sunrise to sunset ,
+432,HLDG,Holding,
+433,HLP,Heliport,
+434,HLS,Helicopter landing site ,
+435,HM,Holding/racetrack to a manual termination,
+436,HN,Sunset to sunrise ,
+437,HO,"Service available to meet operational
+requirements ",
+438,HOL,Holiday,
+439,HOSP,Hospital aircraft ,
+440,HPA,Hectopascal,
+441,HR,Hours,
+442,HRP,Heliport reference point,
+443,HS,"Service available during hours of
+scheduled operations ",
+444,HUD,Head-up display,
+445,HUM,Humanitarian,
+446,HURCN,Hurricane,
+447,HVDF,High and very high frequency directionfinding stations (at the same location),
+448,HVY,Heavy,
+449,HVY,"Heavy (used to indicate the intensity of
+weather phenomena, e.g. HVY RA =
+heavy rain)",
+450,HX,No specific working hours ,
+451,HYR,Higher,
+452,HZ,Haze,
+453,HZ,Hertz (cycle per second),
+454,IAC…,"Instrument approach chart (followed by
+name/title)",
+455,IAF,Initial approach fix ,
+456,IAO,In and out of clouds ,
+457,IAP,Instrument approach procedure ,
+458,IAR,Intersection of air routes ,
+459,IAS,Indicated airspeed ,
+460,IBN,Identification beacon ,
+461,ICAO,International Civil Aviation Organization,
+462,ICE,Icing,
+463,ID,Identifier or identify ,
+464,IDENT,Identification,†
+465,IF,Intermediate approach fix ,
+466,IFF,Identification friend/foe ,
+467,IFR,Instrument flight rules ,‡
+468,IGA,International general aviation,
+469,ILS,Instrument landing system ,‡ 
+470,IM,Inner marker,
+471,IMC,Instrument meteorological conditions ,‡ 
+472,IMG,Immigration,
+473,IMI,"Interrogation sign (question mark) (to be
+used in AFS as a procedure signal)",* 
+474,IMPR,Improve or improving,
+475,IMT,Immediate or immediately,
+476,INA,Initial approach ,
+477,INBD,Inbound,
+478,INC,In cloud,
+479,INCERFA,Uncertainty phase ,† 
+480,INCORP,Incorporated,
+481,INFO,Information,† 
+482,INOP,Inoperative,
+483,INP,If not possible ,
+484,INPR,In progress ,
+485,INS,Inertial navigation system ,
+486,INSTL,Install or installed or installation ,
+487,INSTR,Instrument,
+488,INT,Intersection,
+489,INTL,International,
+490,INTRG,Interrogator,
+491,INTRP,Interrupt or interruption or interrupted ,
+492,INTSF,Intensify or intensifying ,
+493,INTST,Intensity,
+494,IR,Ice on runway ,
+495,IRS,Inertial reference system ,
+496,ISA,International standard atmosphere ,
+497,ISB,Independent sideband ,
+498,ISOL,Isolated,
+499,JAN,January,
+500,JTST,Jet stream ,
+501,JUL,July,
+502,JUN,June,
+503,KG,Kilograms,
+504,KHZ,Kilohertz,
+505,KIAS,Knots indicated airspeed ,
+506,KM,Kilometres,
+507,KMH,Kilometres per hour,
+508,KPA,Kilopascal,
+509,KT,Knots,
+510,KW,Kilowatts,
+511,...L,"Left (preceded by runway designation
+number to identify a parallel runway)",
+512,L,Litre,
+513,L,Locator,
+514,L,"Low pressure area or the centre of low
+pressure ",
+515,LAM,"Logical acknowledgement (message type
+designator)",
+516,LAN,Inland,
+517,LAT,Latitude,
+518,LCA,Local or locally or location or located ,
+519,LDA,Landing distance available,
+520,LDAH,"Landing distance available, helicopter",
+521,LDG,Landing,
+522,LDI,Landing direction indicator ,
+523,LEN,Length,
+524,LF,Low frequency [30 to 300 kHz] ,
+525,LGT,Light or lighting,
+526,LGTD,Lighted,
+527,LIH,Light intensity high,
+528,LIL,Light intensity low,
+529,LIM,Light intensity medium,
+530,LINE,Line (used in SIGMET),
+531,LM,"Locator, middle",
+532,LMT,Local mean time,
+533,LNAV,(to be pronounced “EL-NAV”) Lateral navigation,†
+534,LNG,Long (used to indicate the type of approach desired or required),
+535,LO,"Locator, outer",
+536,LOC,Localizer,
+537,LONG,Longitude,
+538,LORAN,LORAN (long range air navigation system),†
+539,LOSS,Airspeed or headwind loss,
+540,LPV,Localizer performance with vertical guidance,
+541,LR,Last message received by me was . . . (to be used in AFS as a procedure signal),
+542,LRG,Long range,
+543,LS,Last message sent by me was . . . or Last message was . . . (to be used in AFS as a procedure signal),
+544,LTA,Lower control area,
+545,LTD,Limited,
+546,LTP,Landing threshold point,
+547,LV,Light and variable (relating to wind),
+548,LVE,Leave or leaving,
+549,LVL,Level,
+550,LVP,Low visibility procedures,
+551,LYR,Layer or layered,
+552,...M,Metres (preceded by figures),
+553,M…,Mach number (followed by figures),
+554,M…,Minimum value of runway visual range (followed by figures in METAR/SPECI),
+555,MAA,Maximum authorized altitude,
+556,MAG,Magnetic,
+557,MAHF,Missed approach holding fix,
+558,MAINT,Maintenance,
+559,MAP,Aeronautical maps and charts,
+560,MAPT,Missed approach point,
+561,MAR,At sea,
+562,MAR,March,
+563,MATF,Missed approach turning fix,
+564,MATZ,Military aerodrome traffic zone,
+565,MAX,Maximum,
+566,MAY,May,
+567,MBST,Microburst,
+568,MCA,Minimum crossing altitude,
+569,MCTR,Military control zone,
+570,MCW,Modulated continuous wave,
+571,MDA,Minimum descent altitude,
+572,MDF,Medium frequency direction-finding station,
+573,MDH,Minimum descent height,
+574,MEA,Minimum en-route altitude,
+575,MEDEVAC,Medical evacuation flight,
+576,MEHT,Minimum eye height over threshold (for visual approach slope indicator systems),
+577,MET,Meteorological or meteorology,†
+578,METAR,Aerodrome routine meteorological report (in meteorological code),†
+579,MET REPORT,Local routine meteorological report (in abbreviated plain language),
+580,MF,Medium frequency [300 to 3 000 kHz],
+581,MHA,Minimum holding altitude,
+582,MHDF,Medium and high frequency directionfinding stations (at the same location),
+583,MHVDF,"Medium, high and very high frequency direction-finding stations (at the same location)",
+584,MHZ,Megahertz,
+585,MID,Mid-point (related to RVR),
+586,MIFG,Shallow fog,
+587,MIL,Military,
+588,MIN,Minutes,*
+589,MIS,Missing . . . (transmission identification) (to be used in AFS as a procedure signal),
+590,MKR,Marker radio beacon,
+591,MLS,Microwave landing system,‡
+592,MM,Middle marker,
+593,MNM,Minimum,
+594,MNPS,Minimum navigation performance specifications,
+595,MNT,Monitor or monitoring or monitored,
+596,MNTN,Maintain,
+597,MOA,Military operating area,
+598,MOC,Minimum obstacle clearance (required),
+599,MOCA,Minimum obstacle clearance altitude,
+600,MOD,"Moderate (used to indicate the intensity of weather phenomena, interference or static reports, e.g. MODRA = moderate rain)",
+601,MON,Above mountains,
+602,MON,Monday,
+603,MOPS,Minimum operational performance standards,†
+604,MOV,Move or moving or movement,
+605,MPS,Metres per second,
+606,MRA,Minimum reception altitude,
+607,MRG,Medium range,
+608,MRP,ATS/MET reporting point,
+609,MS,Minus,
+610,MSA,Minimum sector altitude,
+611,MSAS,(to be pronounced “EM-SAS”) Multifunctional transport satellite (MTSAT) satellite-based augmentation system,†
+612,MSAW,Minimum safe altitude warning,
+613,MSG,Message,
+614,MSL,Mean sea level,
+615,MSR,Message . . . (transmission identification) has been misrouted (to be used in AFS as a procedure signal),#
+616,MSSR,Monopulse secondary surveillance radar,
+617,MT,Mountain,
+618,MTOM,Maximum take-off mass,
+619,MTU,Metric units,
+620,MTW,Mountain waves,
+621,MVDF,Medium and very high frequency direction- finding stations (at the same location),
+622,MWO,Meteorological watch office,
+623,MX,Mixed type of ice formation (white and clear),
+624,N,No distinct tendency (in RVR during previous 10 minutes),
+625,N,North or northern latitude,
+626,NADP,Noise abatement departure procedure,
+627,NASC,National AIS system centre,†
+628,NAT,North Atlantic,
+629,NAV,Navigation,
+630,NAVAID,Navigation aid,
+631,NB,Northbound,
+632,NBFR,Not before,
+633,NC,No change,
+634,NCD,No cloud detected (used in automated METAR/SPECI),
+635,NDB,Non-directional radio beacon,‡
+636,NDV,No directional variations available (used in automated METAR/SPECI),
+637,NE,North-east,
+638,NEB,North-eastbound,
+639,NEG,No or negative or permission not granted or that is not correct,
+640,NGT,Night,
+641,NIL,None or I have nothing to send to you,*†
+642,NM,Nautical miles,
+643,NML,Normal,
+644,NN,"No name, unnamed",
+645,NNE,North-north-east,
+646,NNW,North-north-west,
+647,NO,No (negative) (to be used in AFS as a procedure signal),
+648,NOF,International NOTAM office,
+649,NONSTD,Non-standard,
+650,NOSIG,No significant change (used in trend-type landing forecasts),†
+651,NOTAM,"Notice distributed by means of telecommunication containing information concerning the establishment, condition or change in any aeronautical facility, service, procedure or hazard, the timely knowledge of which is essential to personnel concerned with flight operations",†
+652,NOTAMC,Cancelling NOTAM,
+653,NOTAMN,New NOTAM,
+654,NOTAMR,Replacing NOTAM,
+655,NOV,November,
+656,NOZ,Normal operating zone,‡
+657,NPA,Non-precision approach,
+658,NR,Number,
+659,NRH,No reply heard,
+660,NS,Nimbostratus,
+661,NSC,Nil significant cloud,
+662,NSE,Navigation system error,
+663,NSW,Nil significant weather,
+664,NTL,National,
+665,NTZ,No transgression zone,‡
+666,NW,North-west,
+667,NWB,North-westbound,
+668,NXT,Next,
+669,OAC,Oceanic area control centre,
+670,OAS,Obstacle assessment surface,
+671,OBS,Observe or observed or observation,
+672,OBSC,Obscure or obscured or obscuring,
+673,OBST,Obstacle,
+674,OCA,Obstacle clearance altitude,
+675,OCA,Oceanic control area,
+676,OCC,Occulting (light),
+677,OCH,Obstacle clearance height ,
+678,OCNL,Occasional or occasionally,
+679,OCS,Obstacle clearance surface,
+680,OCT,October,
+681,OFZ,Obstacle free zone,
+682,OGN,Originate (to be used in AFS as a procedure signal),
+683,OHD,Overhead,
+684,OIS,Obstacle identification surface,
+685,OK,We agree or It is correct (to be used in AFS as a procedure signal),*
+686,OLDI,On-line data interchange,†
+687,OM,Outer marker,
+688,OPA,"Opaque, white type of ice formation",
+689,OPC,Control indicated is operational control,
+690,OPMET,Operational meteorological (information),†
+691,OPN,Open or opening or opened,
+692,OPR,Operator or operate or operative or operating or operational,
+693,OPS,Operations,†
+694,O/R,On request,
+695,ORD,Order,
+696,OSV,Ocean station vessel,
+697,OTP,On top,
+698,OTS,Organized track system,
+699,OUBD,Outbound,
+700,OVC,Overcast,
+701,P . . .,Maximum value of wind speed or runway visual range (followed by figures in METAR/SPECI and TAF),
+702,P . . .,Prohibited area (followed by identification),
+703,PA,Precision approach,
+704,PALS,Precision approach lighting system (specify category),
+705,PANS,Procedures for air navigation services,
+706,PAPI,Precision approach path indicator,†
+707,PAR,Precision approach radar,‡
+708,PARL,Parallel,
+709,PATC . . .,Precision approach terrain chart (followed by name/title),
+710,PAX,Passenger(s),
+711,PBC,Performance-based communication,
+712,PBN,Performance-based navigation,
+713,PBS,Performance-based surveillance,
+714,PCD,Proceed or proceeding,
+715,PCL,Pilot-controlled lighting,
+716,PCN,Pavement classification number,
+717,PCT,Per cent,
+718,PDC,Pre-departure clearance,‡
+719,PDG,Procedure design gradient,
+720,PER,Performance,
+721,PERM,Permanent,
+722,PIB,Pre-flight information bulletin,
+723,PJE,Parachute jumping exercise,
+724,PL,Ice pellets,
+725,PLA,Practice low approach,
+726,PLVL,Present level,
+727,PN,Prior notice required,
+728,PNR,Point of no return,
+729,PO,Dust/sand whirls (dust devils),
+730,POB,Persons on board,
+731,POSS,Possible,
+732,PPI,Plan position indicator,
+733,PPR,Prior permission required,
+734,PPSN,Present position,
+735,PRFG,Aerodrome partially covered by fog,
+736,PRI,Primary,
+737,PRKG,Parking,
+738,PROB,Probability,†
+739,PROC,Procedure,
+740,PROP,Propeller,
+741,PROV,Provisional,
+742,PRP,Point-in-space reference point,
+743,PS,Plus,
+744,PSG,Passing,
+745,PSN,Position,
+746,PSP,Pierced steel plank,
+747,PSR,Primary surveillance radar,‡
+748,PSYS,Pressure system(s),
+749,PTN,Procedure turn,
+750,PTS,Polar track structure,
+751,PWR,Power,
+752,QDL,Do you intend to ask me for a series of bearings? or I intend to ask you for a series of bearings (to be used in radiotelegraphy as a Q Code),
+753,QDM,Magnetic heading (zero wind),‡
+754,QDR,Magnetic bearing,
+755,QFE,Atmospheric pressure at aerodrome elevation (or at runway threshold),‡
+756,QFU,Magnetic orientation of runway,
+757,QGE,What is my distance to your station? or Your distance to my station is (distance figures and units) (to be used in radiotelegraphy as a Q Code),
+758,QJH,Shall I run my test tape/a test sentence? or Run your test tape/a test sentence (to be used in AFS as a Q Code),
+759,QNH,Altimeter sub-scale setting to obtain elevation when on the ground,‡
+760,QSP,Will you relay to . . . free of charge? or I will relay to . . . free of charge (to be used in AFS as a Q Code),
+761,QTA,Shall I cancel telegram number . . .? or Cancel telegram number . . . (to be used in AFS as a Q Code),
+762,QTE,True bearing,
+763,QTF,"Will you give me the position of my station according to the bearings taken by the D/F stations which you control? or The position of your station according to the bearings taken by the D/F stations that I control was . . . latitude . . . longitude (or other indication of position), class . . . at . . . hours (to be used in radiotelegraphy as a Q Code)",
+764,QUAD,Quadrant,
+765,QUJ,Will you indicate the TRUE track to reach you? or The TRUE track to reach me is . . . degrees at . . . hours (to be used in radiotelegraphy as a Q Code),
+766,. . . R,Right (preceded by runway designation number to identify a parallel runway),
+767,R,Rate of turn,
+768,R,Red,
+769,R . . .,Radial from VOR (followed by three figures),
+770,R . . .,Restricted area (followed by identification),
+771,R . . .,Runway (followed by figures in METAR/SPECI),
+772,R,Received (acknowledgement of receipt) (to be used in AFS as a procedure signal),*
+773,RA,Rain,
+774,RA,Resolution advisory,
+775,RAC,Rules of the air and air traffic services,
+776,RAG,Ragged,
+777,RAG,Runway arresting gear,
+778,RAI,Runway alignment indicator,
+779,RAIM,Receiver autonomous integrity monitoring,†
+780,RASC,Regional AIS system centre,†
+781,RASS,Remote altimeter setting source,
+782,RB,Rescue boat,
+783,RCA,Reach cruising altitude,
+784,RCC,Rescue coordination centre,
+785,RCF,Radiocommunication failure (message type designator),
+786,RCH,Reach or reaching,
+787,RCL,Runway centre line,
+788,RCLL,Runway centre line light(s),
+789,RCLR,Recleared,
+790,RCP,Required communication performance,‡
+791,RDH,Reference datum height,
+792,RDL,Radial,
+793,RDO,Radio,
+794,RDOACT,Radioactive,
+795,RE,"Recent (used to qualify weather phenomena, e.g. RERA = recent rain)",
+796,REC,Receive or receiver,
+797,REDL,Runway edge light(s),
+798,REF,Reference to . . . or refer to . . .,
+799,REG,Registration,
+800,RENL,Runway end light(s),
+801,REP,Report or reporting or reporting point,
+802,REQ,Request or requested,
+803,RERTE,Re-route,
+804,RESA,Runway end safety area,
+805,RF,Constant radius arc to a fix,
+806,RFFS,Rescue and fire fighting services,
+807,RG,Range (lights),
+808,RHC,Right-hand circuit,
+809,RIF,Reclearance in flight,
+810,RIME,Rime (used in aerodrome warnings),†
+811,RL,Report leaving,
+812,RLA,Relay to,
+813,RLCE,Request level change en route,
+814,RLLS,Runway lead-in lighting system,
+815,RLNA,Requested level not available,
+816,RMK,Remark,
+817,RNAV,(to be pronounced “AR-NAV”) Area navigation,†
+818,RNG,Radio range,
+819,RNP,Required navigation performance,‡
+820,ROBEX,Regional OPMET bulletin exchange (scheme),†
+821,ROC,Rate of climb,
+822,ROD,Rate of descent,
+823,RON,Receiving only,
+824,RPDS,Reference path data selector,
+825,RPI,Radar position indicator,‡
+826,RPL,Repetitive flight plan,
+827,RPLC,Replace or replaced,
+828,RPS,Radar position symbol,
+829,RPT,Repeat or I repeat (to be used in AFS as a procedure signal),*
+830,RQ,Request (to be used in AFS as a procedure signal),*
+831,RQMNTS,Requirements,
+832,RQP,Request flight plan (message type designator),
+833,RQS,Request supplementary flight plan (message type designator),
+834,RR,Report reaching,
+835,RRA,"(or RRB, RRC . . . etc., in sequence) Delayed meteorological message (message type designator)",
+836,RSC,Rescue sub-centre,
+837,RSCD,Runway surface condition,
+838,RSP,Responder beacon,
+839,RSP,Required surveillance performance,‡
+840,RSR,En-route surveillance radar,
+841,RSS,Root sum square,
+842,RTD,Delayed (used to indicate delayed meteorological message; message type designator),
+843,RTE,Route,
+844,RTF,Radiotelephone,
+845,RTG,Radiotelegraph,
+846,RTHL,Runway threshold light(s),
+847,RTN,Return or returned or returning,
+848,RTODAH,"Rejected take-off distance available, helicopter",
+849,RTS,Return to service,
+850,RTT,Radioteletypewriter,
+851,RTZL,Runway touchdown zone light(s),
+852,RUT,Standard regional route transmitting frequencies,
+853,RV,Rescue vessel,
+854,RVA,Radar vectoring area,
+855,RVR,Runway visual range,‡
+856,RVSM,Reduced vertical separation minimum [300 m (1 000 ft) between FL 290 and FL 410],‡
+857,RWY,Runway,
+858,S,South or southern latitude,
+859,S . . .,State of the sea (followed by figures in METAR/SPECI),
+860,SA,Sand,
+861,SALS,Simple approach lighting system,
+862,SAN,Sanitary,
+863,SAR,Search and rescue,
+864,SARPS,Standards and Recommended Practices [ICAO],
+865,SAT,Saturday,
+866,SATCOM,Satellite communication (used only when referring generally to both voice and data satellite communication or only data satellite communication),†
+867,SATVOICE,Satellite voice communication,†
+868,SB,Southbound,
+869,SBAS,(to be pronounced “ESS-BAS”) Satellite-based augmentation system,†
+870,SC,Stratocumulus,
+871,SCT,Scattered,
+872,SD,Standard deviation,
+873,SDBY,Stand by,
+874,SDF,Step down fix,
+875,SE,South-east,
+876,SEA,Sea (used in connection with sea-surface temperature and state of the sea),
+877,SEB,South-eastbound,
+878,SEC,Seconds,
+879,SECN,Section,
+880,SECT,Sector,
+881,SELCAL,Selective calling system,†
+882,SEP,September,
+883,SER,Service or servicing or served,
+884,SEV,Severe (used to qualify icing and turbulence reports),
+885,SFC,Surface,
+886,SG,Snow grains,
+887,SGL,Signal,
+888,SH . . .,"Shower (followed by RA = rain, SN = snow, PL = ice pellets, GR = hail, GS = small hail and/or snow pellets or combinations thereof, e.g. SHRASN = showers of rain and snow)",
+889,SHF,Super high frequency [3 000 to 30 000 MHz],
+890,SI,International system of units,
+891,SID,Standard instrument departure,†
+892,SIF,Selective identification feature,
+893,SIG,Significant,
+894,SIGMET,Information concerning en-route weather and other phenomena in the atmosphere that may affect the safety,†
+895,SIMUL,Simultaneous or simultaneously,
+896,SIWL,Single isolated wheel load,
+897,SKED,Schedule or scheduled,
+898,SLP,Speed limiting point,
+899,SLW,Slow,
+900,SMC,Surface movement control,
+901,SMR,Surface movement radar,
+902,SN,Snow,
+903,SNOCLO,Aerodrome closed due to snow (used in METAR/SPECI),
+904,SNOWTAM,"Special series NOTAM notifying the presence or removal of hazardous conditions due to snow, ice, slush or standing water associated with snow, slush and ice on the movement area, by means of a specific format",†
+905,SOC,Start of climb,
+906,SPECI,Aerodrome special meteorological report (in meteorological code),†
+907,SPECIAL,Local special meteorological report (in abbreviated plain language),†
+908,SPI,Special position indicator,
+909,SPL,Supplementary flight plan (message type designator),
+910,SPOC,SAR point of contact,
+911,SPOT,Spot wind,†
+912,SQ,Squall,
+913,SQL,Squall line,
+914,SR,Sunrise,
+915,SRA,Surveillance radar approach,
+916,SRE,Surveillance radar element of precision approach radar system,
+917,SRG,Short range,
+918,SRR,Search and rescue region,
+919,SRY,Secondary,
+920,SS,Sandstorm,
+921,SS,Sunset,
+922,SSB,Single sideband,
+923,SSE,South-south-east,
+924,SSR,Secondary surveillance radar,‡
+925,SST,Supersonic transport,
+926,SSW,South-south-west,
+927,ST,Stratus,
+928,STA,Straight-in approach,
+929,STAR,Standard instrument arrival,†
+930,STD,Standard,
+931,STF,Stratiform,
+932,STN,Station,
+933,STNR,Stationary,
+934,STOL,Short take-off and landing,
+935,STS,Status,
+936,STWL,Stopway light(s),
+937,SUBJ,Subject to,
+938,SUN,Sunday,
+939,SUP,Supplement (AIP Supplement),
+940,SUPPS,Regional supplementary procedures,
+941,SVC,Service (message type only),
+942,SVCBL,Serviceable,
+943,SW,South-west,
+944,SWB,South-westbound,
+945,SWY,Stopway,
+946,T,Temperature,
+947,. . . T,True (preceded by a bearing to indicate reference to True North),
+948,TA,Traffic advisory,
+949,TA,Transition altitude,
+950,TAA,Terminal arrival altitude,
+951,TACAN,UHF tactical air navigation aid,†
+952,TAF,Aerodrome forecast (in meteorological code),†
+953,TA/H,Turn at an altitude/height,
+954,TAIL,Tail wind,†
+955,TAR,Terminal area surveillance radar,
+956,TAS,True airspeed,
+957,TAX,Taxiing or taxi,
+958,TC,Tropical cyclone,
+959,TCAC,Tropical cyclone advisory centre,
+960,TCAS RA,(to be pronounced “TEE-CAS-AR-AY”) Traffic alert and collision avoidance system resolution advisory,†
+961,TCH,Threshold crossing height,
+962,TCU,Towering cumulus,
+963,TDO,Tornado,
+964,TDZ,Touchdown zone,
+965,TECR,Technical reason,
+966,TEL,Telephone,
+967,TEMPO,Temporary or temporarily,†
+968,TF,Track to fix,
+969,TFC,Traffic,
+970,TGL,Touch-and-go landing,
+971,TGS,Taxiing guidance system,
+972,THR,Threshold,
+973,THRU,Through,
+974,THU,Thursday,
+975,TIBA,Traffic information broadcast by aircraft,†
+976,TIL,Until,†
+977,TIP. . .,Until past (followed by place),
+978,TKOF,Take-off,
+979,TL . . .,Till (followed by time by which weather change is forecast to end),
+980,TLOF,Touchdown and lift-off area,
+981,TMA,Terminal control area,‡
+982,TN . . .,Minimum temperature (followed by figures in TAF),
+983,TNA,Turn altitude,
+984,TNH,Turn height,
+985,TO . . .,To (followed by place),
+986,TOC,Top of climb,
+987,TODA,Take-off distance available,
+988,TODAH,"Take-off distance available, helicopter",
+989,TOP,Cloud top,†
+990,TORA,Take-off run available,
+991,TOX,Toxic,
+992,TP,Turning point,
+993,TR,Track,
+994,TRA,Temporary reserved airspace,
+995,TRANS,Transmits or transmitter,
+996,TREND,Trend forecast,†
+997,TRG,Training,
+998,TRL,Transition level,
+999,TROP,Tropopause,
+1000,TS,"Thunderstorm (in aerodrome reports and forecasts, TS used alone means thunder heard but no precipitation at the aerodrome)",
+1001,TS . . .,"Thunderstorm (followed by RA = rain, SN = snow, PL = ice pellets, GR = hail, GS = small hail and/or snow pellets or combinations thereof, e.g. TSRASN = thunderstorm with rain and snow)",
+1002,TSUNAMI,Tsunami (used in aerodrome warnings),†
+1003,TT,Teletypewriter,
+1004,TUE,Tuesday,
+1005,TURB,Turbulence,
+1006,T-VASIS,(to be pronounced “TEE-VASIS”) T visual approach slope indicator system,†
+1007,TVOR,Terminal VOR,
+1008,TWR,Aerodrome control tower or aerodrome control,
+1009,TWY,Taxiway,
+1010,TX . . .,Maximum temperature (followed by figures in TAF),
+1011,TXL,Taxilane,
+1012,TXT,"Text (when the abbreviation is used to request a repetition, the question mark (IMI) precedes the abbreviation, e.g. IMI TXT) (to be used in AFS as a procedure signal)",*
+1013,TYP,Type of aircraft,
+1014,TYPH,Typhoon,
+1015,U,Upward (tendency in RVR during previous 10 minutes),
+1016,UA,Unmanned aircraft,
+1017,UAB,Until advised by . . .,
+1018,UAC,Upper area control centre,
+1019,UAR,Upper air route,
+1020,UAS,Unmanned aircraft system,
+1021,UDF,Ultra high frequency direction-finding station,
+1022,UFN,Until further notice,
+1023,UHDT,Unable higher due traffic,
+1024,UHF,Ultra high frequency [300 to 3 000 MHz],‡
+1025,UIC,Upper information centre,
+1026,UIR,Upper flight information region,‡
+1027,ULM,Ultra light motorized aircraft,
+1028,ULR,Ultra long range,
+1029,UNA,Unable,
+1030,UNAP,Unable to approve,
+1031,UNL,Unlimited,
+1032,UNREL,Unreliable,
+1033,UP,Unidentified precipitation (used in automated METAR/SPECI),
+1034,U/S,Unserviceable,
+1035,UTA,Upper control area,
+1036,UTC,Coordinated Universal Time,‡
+1037,. . . V . . .,"Variations from the mean wind direction (preceded and followed by figures in METAR/SPECI, e.g. 350V070)",
+1038,VA,Heading to an altitude,
+1039,VA,Volcanic ash,
+1040,VAAC,Volcanic ash advisory centre,
+1041,VAC . . .,Visual approach chart (followed by name/title),
+1042,VAL,In valleys,
+1043,VAN,Runway control van,
+1044,VAR,Magnetic variation,
+1045,VASIS,Visual approach slope indicator systems,
+1046,VC . . .,"Vicinity of the aerodrome (followed by FG = fog, FC = funnel cloud, SH = shower, PO = dust/sand whirls, BLDU = blowing dust, BLSA = blowing sand, BLSN = blowing snow, DS = duststorm, SS = sandstorm, TS = thunderstorm or VA = volcanic ash, e.g. VCFG = vicinity fog)",
+1047,VCY,Vicinity,
+1048,VDF,Very high frequency direction-finding station,
+1049,VER,Vertical,
+1050,VFR,Visual flight rules,‡
+1051,VHF,Very high frequency [30 to 300 MHz],‡
+1052,VI,Heading to an intercept,
+1053,VIP,Very important person,‡
+1054,VIS,Visibility,
+1055,VLF,Very low frequency [3 to 30 kHz],
+1056,VLR,Very long range,
+1057,VM,Heading to a manual termination,
+1058,VMC,Visual meteorological conditions,‡
+1059,VNAV,(to be pronounced “VEE-NAV”) Vertical navigation,†
+1060,VOL . . .,"Volume (followed by I, II . . .)",
+1061,VOLMET,Meteorological information for aircraft in flight,†
+1062,VOR,VHF omnidirectional radio range,‡
+1063,VORTAC,VOR and TACAN combination,†
+1064,VOT,VOR airborne equipment test facility,
+1065,VPA,Vertical path angle,
+1066,VPT,Visual manoeuvre with prescribed track,
+1067,VRB,Variable,
+1068,VSA,By visual reference to the ground,
+1069,VSP,Vertical speed,
+1070,VTF,Vector to final,
+1071,VTOL,Vertical take-off and landing,
+1072,VV . . .,Vertical visibility (followed by figures in METAR/SPECI and TAF),
+1073,W,West or western longitude,
+1074,W,White,
+1075,W . . .,Sea-surface temperature (followed by figures in METAR/SPECI),
+1076,WAAS,Wide area augmentation system,†
+1077,WAC. . .,World Aeronautical Chart — ICAO 1:1 000 000 (followed by name/title),
+1078,WAFC,World area forecast centre,
+1079,WB,Westbound,
+1080,WBAR,Wing bar lights,
+1081,WDI,Wind direction indicator,
+1082,WDSPR,Widespread,
+1083,WED,Wednesday,
+1084,WEF,With effect from or effective from,
+1085,WGS-84,World Geodetic System — 1984,
+1086,WI,Within,
+1087,WID,Width or wide,
+1088,WIE,With immediate effect or effective immediately,
+1089,WILCO,Will comply,†
+1090,WIND,Wind,
+1091,WIP,Work in progress,
+1092,WKN,Weaken or weakening,
+1093,WNW,West-north-west,
+1094,WO,Without,
+1095,WPT,Way-point,
+1096,WRNG,Warning,
+1097,WS,Wind shear,
+1098,WSPD,Wind speed,
+1099,WSW,West-south-west,
+1100,WT,Weight,
+1101,WTSPT,Waterspout,
+1102,WWW,Worldwide web,
+1103,WX,Weather,
+1104,WXR,Weather radar,
+1105,X,Cross,
+1106,XBAR,Crossbar (of approach lighting system),
+1107,XNG,Crossing,
+1108,XS,Atmospherics,
+1109,Y,Yellow,
+1110,YCZ,Yellow caution zone (runway lighting),
+1111,YES,Yes (affirmative) (to be used in AFS as a procedure signal),*
+1112,YR,Your,
+1113,Z,Coordinated Universal Time (in meteorological messages),
