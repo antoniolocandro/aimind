@@ -7,7 +7,7 @@ It is the responsability of the user to verify that the information is up to dat
 For simplicity CSV format has been chosen as initial format 
 
 # CSV available
-ICAO abbreviations code/decode
+ICAO abbreviations code/decode DOC 8400 9th Ed 2016 + AMDT 1-32
 
 # Next CSV to be added
 NOTAM selection criteria
